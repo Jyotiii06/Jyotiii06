@@ -17,4 +17,4 @@ Goals
 • Learn advanced programming
 
 Projects
-Check my repositoories to see the projects I am working on.
+Check my repositories to see the programs I have uploaded and the projects I am working on.
