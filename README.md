@@ -1,4 +1,4 @@
-Hi👋 I'm Jyoti.
+Hi👋 I'm Jyoti Rawat.
 
 🎓BCA Student
 Learning Python, C, C++, Web Development and DBMS
